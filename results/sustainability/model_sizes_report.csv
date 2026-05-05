@@ -1,6 +1,6 @@
 Model File,Size (MB)
 scaler.sav,0.002765655517578125
-MLP_Gatekeeper.sav,0.1200113296508789
+MLP_Gatekeeper.sav,0.12153339385986328
 MLP_Classifier.sav,0.18274211883544922
 y_test.sav,0.36087703704833984
 Decision_Tree.sav,0.7181053161621094
