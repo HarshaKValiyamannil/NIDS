@@ -1,0 +1,16 @@
+Classification Report: Decision_Tree_Unbalanced
+============================================================
+               precision    recall  f1-score   support
+
+BenignTraffic       0.89      0.90      0.89       461
+   BruteForce       0.00      0.00      0.00         4
+         DDoS       1.00      1.00      1.00     15337
+          DoS       1.00      1.00      1.00      3598
+        Mirai       1.00      1.00      1.00      1185
+        Recon       0.79      0.75      0.77       172
+     Spoofing       0.81      0.83      0.82       210
+    Web_based       0.10      0.20      0.13         5
+
+     accuracy                           0.99     20972
+    macro avg       0.70      0.71      0.70     20972
+ weighted avg       0.99      0.99      0.99     20972

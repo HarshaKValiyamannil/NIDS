@@ -1,0 +1,7 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%)
+Decision_Tree,99.05,99.06,99.05,99.05
+Random_Forest,99.11,99.12,99.11,99.11
+Bagging_Classifier,99.15,99.16,99.15,99.15
+MLP_Classifier,79.21,86.53,79.21,81.07
+HNIDS_System_Overall,98.98,99.0,98.98,98.96
+Decision_Tree_RUS,88.47,0,64.8,0

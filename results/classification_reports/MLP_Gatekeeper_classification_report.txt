@@ -1,0 +1,10 @@
+Classification Report: MLP_Gatekeeper
+============================================================
+              precision    recall  f1-score   support
+
+           0       0.86      0.80      0.83       461
+           1       1.00      1.00      1.00     20511
+
+    accuracy                           0.99     20972
+   macro avg       0.93      0.90      0.91     20972
+weighted avg       0.99      0.99      0.99     20972
