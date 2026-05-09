@@ -9,5 +9,6 @@ y_train_smote.sav,4.311130523681641
 Bagging_Classifier.sav,6.414834022521973
 X_test.sav,7.361352920532227
 X_train.sav,29.441160202026367
+NIDS_Production_Pipeline.sav,30.282791137695312
 Random_Forest.sav,136.22199726104736
 X_train_smote.sav,171.56632614135742
